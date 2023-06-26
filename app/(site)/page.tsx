@@ -10,7 +10,7 @@ export default async function Home() {
       <Header>
         <div className="mb-2">
           <h1 className="text-white  text-3xl  font-semibold">
-            welcome back Gj Music!
+            Welcome Back To GJ Music..!
           </h1>
           <div
             className="grid grid-cols-1 sm:grid-col-2 xl:grid-cols-3 2xl:grid-cols-4 gap-3 mt-4"></div>
